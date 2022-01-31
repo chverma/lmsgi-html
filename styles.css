@@ -1,0 +1,30 @@
+#paraulaVerda {
+    color: green;
+    background-color: blue;
+}
+
+.paraulesRoges {
+    color: red;
+}
+
+#video_html {
+    width: 50%;
+}
+
+table,
+tr,
+td {
+    border: 1px solid blue;
+}
+
+#row {
+    height: 150px;
+}
+
+#row>ol {
+    float: left;
+}
+
+#row>ul {
+    float: left;
+}
